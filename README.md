@@ -1,4 +1,4 @@
-# LangChain Character Extractor – Assignment (100% Complete)
+<!-- # LangChain Character Extractor – Assignment (100% Complete)
 
 Uses **MistralAI + Chroma** as required by the assignment.
 
@@ -6,7 +6,7 @@ Uses **MistralAI + Chroma** as required by the assignment.
 
 1. Get your free Mistral API key: https://console.mistral.ai
 2. Create `.env` file with:
-
+ -->
 
 
 
