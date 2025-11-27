@@ -47,11 +47,9 @@ python main.py get-character-info "Jon Snow"
   Westeros against the threat of the White Walkers.",
   
   "relations": [
-  
     { "name": "Arya Stark", "relation": "Sister" },
   
     { "name": "Eddard Stark", "relation": "Father" }
-  
   ],
   
   "characterType": "Protagonist"
