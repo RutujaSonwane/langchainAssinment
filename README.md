@@ -1,4 +1,4 @@
-# LangChain Character Extractor – Assignment (100% Complete)
+# LangChain Character Extractor – Assignment 
 
 A complete RAG (Retrieval-Augmented Generation) system that extracts structured character information from stories using **MistralAI** as required by the assignment.
 
@@ -32,13 +32,27 @@ python main.py get-character-info "Jon Snow"
 ```
 
 ### Expected Output (Exactly as Assignment Requires)
-JSON{
+{
+
   "name": "Jon Snow",
+
   "storyTitle": "A Song of Ice and Fire",
-  "summary": "Jon Snow is a brave and honorable leader who serves as the Lord Commander of the Night's Watch and later unites the Free Folk and Westeros against the threat of the White Walkers.",
+  
+  "summary": "Jon Snow is a brave and honorable 
+  
+  leader who serves as the Lord Commander of the 
+  
+  Night's Watch and later unites the Free Folk and 
+  
+  Westeros against the threat of the White Walkers.",
+  
   "relations": [
+  
     { "name": "Arya Stark", "relation": "Sister" },
+  
     { "name": "Eddard Stark", "relation": "Father" }
+  
   ],
+  
   "characterType": "Protagonist"
 }
