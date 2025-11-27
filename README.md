@@ -48,7 +48,6 @@ python main.py get-character-info "Jon Snow"
   
   "relations": [
     { "name": "Arya Stark", "relation": "Sister" },
-  
     { "name": "Eddard Stark", "relation": "Father" }
   ],
   
