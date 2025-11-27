@@ -23,8 +23,10 @@ pip install -r requirements.txt
 
 4. Run the project 
 Step 1: Build the vector database (run only once)
+```
 python main.py compute-embeddings
 Step 2: Get character info
+```
 python main.py get-character-info "Jon Snow"
 
 ### Expected Output (Exactly as Assignment Requires)
